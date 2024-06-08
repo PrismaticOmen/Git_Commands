@@ -1,0 +1,11 @@
+//copies Github repo into local environment
+git clone 
+//used to put changes into staging area.  In between local environment and
+online repo
+git add 
+//add message to change 
+git commit -m {message}
+//push finalized changes
+git push
+//Get change from online repository 
+git pull
